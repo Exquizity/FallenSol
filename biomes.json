@@ -1,0 +1,17 @@
+{
+    "NORMAL":      { "colour": 4290309, "rare": false },
+    "EGGLAND":     { "colour": 4290309, "rare": false },
+    "SNOWY":       { "colour": 16777215, "rare": false },
+    "RAINY":       { "colour": 4886754, "rare": false },
+    "WINDY":       { "colour": 536671, "rare": false },
+    "SAND STORM":  { "colour": 16033315, "rare": false },
+    "HELL":        { "colour": 10952221, "rare": false },
+    "STARFALL":    { "colour": 978878, "rare": false },
+    "CORRUPTION":  { "colour": 12390624, "rare": false },
+    "HEAVEN":      { "colour": 16756496, "rare": false },
+    "NULL":        { "colour": 4868170, "rare": false },
+    "DREAMSPACE":  { "colour": 16711912, "rare": true },
+    "GLITCHED":    { "colour": 8307489, "rare": true },
+    "CYBERSPACE":  { "colour": 48127, "rare": true },
+    "SINGULARITY": { "colour": 16729088, "rare": true }
+}
