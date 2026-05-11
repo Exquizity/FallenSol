@@ -1,0 +1,135 @@
+{
+    "exclusive_fish": {
+        "Sailfish": {
+            "rarity": "Rare",
+            "biome": "Windy"
+        },
+
+        "Striped Marlin": {
+            "rarity": "Legendary",
+            "biome": "Windy" 
+        },
+
+        "Antarctic Icefish": {
+            "rarity": "Legendary",
+            "biome": "Snowy"
+        },
+
+        "Pelican Eel": {
+            "rarity": "Rare",
+            "biome": "Rainy"
+        },
+
+        "Goblin Shark": {
+            "rarity": "Legendary",
+            "biome": "Rainy"
+        },
+
+        "Umbrella Octopus": {
+            "rarity": "Legendary",
+            "biome": "Rainy"
+        },
+
+        "Skull Mackerel": {
+            "rarity": "Rare",
+            "biome": "Sand Storm"
+        },
+
+        "Skull Moray Eel": {
+            "rarity": "Legendary",
+            "biome": "Sand Storm"
+        },
+
+        "Magma Discus": {
+            "rarity": "Rare",
+            "biome": "Hell"
+        },
+
+        "Ripsaw Catfish": {
+            "rarity": "Legendary",
+            "biome": "Hell"
+        },
+
+        "Barreleye": {
+            "rarity": "Rare",
+            "biome": "Starfall"
+        },
+
+        "Starfish": {
+            "rarity": "Legendary",
+            "biome": "Starfall"
+        },
+
+        "Freshwater Angelfish": {
+            "rarity": "Rare",
+            "biome": "Heaven"
+        },
+
+        "Angel Shark": {
+            "rarity": "Legendary",
+            "biome": "Heaven"
+        },
+
+        "Clione": {
+            "rarity": "Legendary",
+            "biome": "Heaven"
+        },
+
+        "Dragon Fish": {
+            "rarity": "Legendary",
+            "biome": "Corruption"
+        },
+
+        "Betta": {
+            "rarity": "Rare",
+            "biome": "Null"
+        },
+
+        "Saw Shark": {
+            "rarity": "Rare",
+            "biome": "Null"
+        },
+
+        "Vanta Ray": {
+            "rarity": "Legendary",
+            "biome": "Null"
+        }
+    },
+
+    "mutations": {
+        "Rough": {
+            "multi": 2,
+            "biome":"Sand Storm"
+        },
+
+        "Charred": {
+            "multi": 2.5,
+            "biome": "Hell"
+        },
+
+        "Shimmering": {
+            "multi": 3,
+            "biome": "Starfall"
+        },
+
+        "Tainted": {
+            "multi": 3.5,
+            "biome": "Corruption"
+        },
+
+        "Hollow": {
+            "multi": 4,
+            "biome": "Null"
+        },
+
+        "Lucid": {
+            "multi": 4.5,
+            "biome": "Dreamspace"
+        },
+
+        "Fragmented": {
+            "multi": 5,
+            "biome": "Glitched"
+        }
+    }
+}
