@@ -1,6 +1,5 @@
 {
     "NORMAL": { "colour": 4290309, "rare": false},
-    "EGGLAND": { "colour": 4290309, "rare": false },
     "SNOWY": { "colour": 16777215, "rare": false, "length": 120 },
     "RAINY": { "colour": 4886754, "rare": false, "length": 120 },
     "WINDY": { "colour": 536671, "rare": false, "length": 120 },
