@@ -717,7 +717,7 @@ def NewFishingShopPathVip(ahk):
     ahk.key_up('w')
     print("NewFishingShopPathVip Finished")
 
-def ObbyPathVip():
+def ObbyPathVip(ahk):
     print("ObbyPathVip Ran")
     time.sleep(0.831)
     ahk.key_down('w')
