@@ -1,0 +1,18 @@
+{
+    "NORMAL": { "colour": 4290309, "rare": false},
+    "SNOWY": { "colour": 16777215, "rare": false, "length": 120, "drive": "Chilling Frost Drive"},
+    "RAINY": { "colour": 4886754, "rare": false, "length": 120, "drive": "Abyss Curse Drive"},
+    "WINDY": { "colour": 536671, "rare": false, "length": 120, "drive": "Raging Gale Drive"},
+    "SAND STORM": { "colour": 16033315, "rare": false, "length": 650, "drive": "Golden Dune Drive"},
+    "HELL": { "colour": 10952221, "rare": false, "length": 666, "drive": "Infernal Flame Drive"},
+    "STARFALL": { "colour": 978878, "rare": false, "length": 650, "drive": "Radiant Star Drive"},
+    "CORRUPTION": { "colour": 12390624, "rare": false, "length": 650, "drive": "Corrupt Ruin Drive"},
+    "HEAVEN": { "colour": 16756496, "rare": false, "length": 240, "drive": "Angelic Hymn Drive"},
+    "NULL": { "colour": 4868170, "rare": false, "length": 99, "drive": "Unknown Void Drive"},
+    "DREAMSPACE": { "colour": 16711912, "rare": true, "length": 192},
+    "GLITCHED": { "colour": 8307489, "rare": true, "length": 164},
+    "CYBERSPACE": { "colour": 48127, "rare": true, "length": 720},
+    "SINGULARITY": { "colour": 16729088, "rare": true, "length": 1200},
+
+    "THE CITADEL OF ORDERS": { "colour": 16761856, "rare": false, "unlisted": true}
+}
