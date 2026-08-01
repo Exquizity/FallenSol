@@ -1,5 +1,6 @@
 {
     "NORMAL": { "colour": 4290309, "rare": false},
+    "BLAZING SUN": {"colour": 16756496, "rare": false},
     "SNOWY": { "colour": 16777215, "rare": false, "length": 120 },
     "RAINY": { "colour": 4886754, "rare": false, "length": 120 },
     "WINDY": { "colour": 536671, "rare": false, "length": 120 },
